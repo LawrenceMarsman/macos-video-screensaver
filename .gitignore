@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Generated screensavers
+*.saver/
+*.saver
+
+# Video files (keep small test files, ignore large ones)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Build artifacts
+build/
+dist/
+tmp/
+temp/
+
+# Logs
+*.log
+
+# OS generated files
+.AppleDouble
+.LSOverride
+
+# macOS Finder
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
