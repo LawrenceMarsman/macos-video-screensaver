@@ -83,6 +83,10 @@ The result is a native macOS screensaver that appears in System Preferences alon
 - **Output**: Native macOS `.saver` bundles
 - **Platforms**: macOS 10.12+ (Intel and Apple Silicon)
 
+## Related Projects
+
+- **Windows Users**: Check out [EasyVideoScreensaver](https://github.com/tonyfederer/EasyVideoScreensaver) for creating video screensavers on Windows
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
